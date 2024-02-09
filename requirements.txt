@@ -1,0 +1,4 @@
+BAC0==23.7.3
+bacpypes==0.18.7
+colorama==0.4.6
+pytz==2024.1
